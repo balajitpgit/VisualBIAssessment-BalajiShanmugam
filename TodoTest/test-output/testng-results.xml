@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31268" started-at="2020-09-12T20:46:55 IST" finished-at="2020-09-12T20:47:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31268" started-at="2020-09-12T20:46:55 IST" finished-at="2020-09-12T20:47:26 IST">
+      <class name="Todo.TodoAssert">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Todo.TodoAssert@30b8a058]" name="openBrowser" is-config="true" duration-ms="19389" started-at="2020-09-12T20:46:55 IST" finished-at="2020-09-12T20:47:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="ToDoActions()[pri:0, instance:Todo.TodoAssert@30b8a058]" name="ToDoActions" duration-ms="9963" started-at="2020-09-12T20:47:14 IST" finished-at="2020-09-12T20:47:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToDoActions -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Todo.TodoAssert@30b8a058]" name="closeBrowser" is-config="true" duration-ms="1755" started-at="2020-09-12T20:47:24 IST" finished-at="2020-09-12T20:47:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Todo.TodoAssert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
